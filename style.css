@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+    font-size: 96px;
+}
+
+.homepage-ul {
+    text-align: center;
+    font-size: 48px;
+}
+
+#pepper {
+    height: 600px;
+}
+
+.img{
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+p, li {
+    font-size: 24px;
+    color: brown;
+}
+
